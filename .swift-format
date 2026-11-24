@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "indentation": { "spaces": 4 },
+  "lineLength": 120,
+  "tabWidth": 4,
+  "maximumBlankLines": 1,
+  "respectsExistingLineBreaks": true,
+  "lineBreakBeforeControlFlowKeywords": false,
+  "lineBreakBeforeEachArgument": false,
+  "lineBreakBeforeEachGenericRequirement": false,
+  "indentSwitchCaseLabels": false,
+  "multiElementCollectionTrailingCommas": true,
+  "rules": {
+    "DoNotUseSemicolons": true,
+    "OneVariableDeclarationPerLine": true,
+    "OrderedImports": true,
+    "UseLetInEveryBoundCaseVariable": true,
+    "NeverForceUnwrap": false,
+    "NeverUseForceTry": false,
+    "AlwaysUseLowerCamelCase": true
+  }
+}

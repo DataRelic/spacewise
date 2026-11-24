@@ -1,0 +1,14 @@
+.build/
+.DS_Store
+.spacewise/
+.spacewise.local.json
+
+# Xcode and SwiftPM editor state
+.swiftpm/
+xcuserdata/
+DerivedData/
+*.xcodeproj/
+
+*.log
+
+__pycache__/
